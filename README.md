@@ -19,3 +19,4 @@ passo-a-passo para rodar o projeto
 3. Inicie a aplicação (npm start).
 
 Obs: o banco de dados é salvo em memória, para facilitar os testes.
+![Banco](banco.PNG?raw=true "Title")
